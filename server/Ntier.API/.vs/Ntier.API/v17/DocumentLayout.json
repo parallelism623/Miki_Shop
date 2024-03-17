@@ -3,7 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\configuration\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\repositories\\cacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\interfaces\\icacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\dto\\products\\productqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\attributes\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\configuration\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -15,36 +72,11 @@
       "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\configuration\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\migrationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:migrationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\log.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
@@ -55,15 +87,8 @@
       "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:migrations\\20240314185727_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\migrations\\20240316084302_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:migrations\\20240316084302_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -85,9 +110,6 @@
       "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -95,9 +117,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\dto\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\dto\\products\\productqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\dto\\products\\productspagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -154,9 +173,6 @@
       "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\repositories\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C604FFD-01FD-4D5C-9270-E513F4F3AA9A}|..\\Ntier.DAL\\Ntier.DAL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.dal\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -172,10 +188,6 @@
       "AbsoluteMoniker": "D:0:0:{1429CFBB-56FD-42CD-ACF6-76AAD0136DBF}|..\\Ntier.BLL\\Ntier.BLL.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.bll\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|c:\\users\\hieud\\code\\c#\\miki\\miki_shop\\server\\ntier.api\\log.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{CAD1EB7E-CA13-45F0-B907-080CB27D983C}|Ntier.API.csproj|solutionrelative:log.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
@@ -187,7 +199,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -195,111 +207,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "CacheRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\CacheRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DAL\\Repositories\\CacheRepository.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\CacheRepository.cs",
+              "RelativeToolTip": "..\\Ntier.DAL\\Repositories\\CacheRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwDIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:37:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowDMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T08:14:44.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\ImagesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\ImagesController.cs",
-              "RelativeToolTip": "Controllers\\ImagesController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:29:18.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IImageService.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Interfaces\\IImageService.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Interfaces\\IImageService.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Interfaces\\IImageService.cs",
-              "RelativeToolTip": "..\\Ntier.BLL\\Interfaces\\IImageService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:24.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImageService.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\ImageService.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\ImageService.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\ImageService.cs",
-              "RelativeToolTip": "..\\Ntier.BLL\\Services\\ImageService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAwDIAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:18.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProductsService.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\ProductsService.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\ProductsService.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\ProductsService.cs",
               "RelativeToolTip": "..\\Ntier.BLL\\Services\\ProductsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T08:21:44.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenServices.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\TokenServices.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\TokenServices.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\TokenServices.cs",
-              "RelativeToolTip": "..\\Ntier.BLL\\Services\\TokenServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:15.868Z",
+              "WhenOpened": "2024-03-16T08:27:16.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageDTO.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ImageDTO.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\ImageDTO.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ImageDTO.cs",
-              "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\ImageDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:13.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\ProductImage.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\ProductImage.cs",
-              "RelativeToolTip": "..\\Ntier.DAL\\Entities\\ProductImage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:19.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "CloudinarySettings.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Configuration\\CloudinarySettings.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Configuration\\CloudinarySettings.cs",
@@ -312,46 +272,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:29:18.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:28:52.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICacheRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Interfaces\\ICacheRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DAL\\Interfaces\\ICacheRepository.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Interfaces\\ICacheRepository.cs",
+              "RelativeToolTip": "..\\Ntier.DAL\\Interfaces\\ICacheRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:02:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ProductQueryParameters.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\ProductQueryParameters.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ProductQueryParameters.cs",
+              "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\ProductQueryParameters.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:27:09.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "CacheAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Attributes\\CacheAttribute.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Attributes\\CacheAttribute.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Attributes\\CacheAttribute.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Attributes\\CacheAttribute.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwC4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:04:56.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DAL\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Ntier.DAL\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:27:43.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\DependencyInjection.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\DependencyInjection.cs",
               "RelativeToolTip": "..\\Ntier.BLL\\DependencyInjection.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABXAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T08:28:12.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MigrationDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\MigrationDatabase.cs",
-              "RelativeDocumentMoniker": "MigrationDatabase.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\MigrationDatabase.cs",
-              "RelativeToolTip": "MigrationDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:29:10.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-16T08:38:24.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -364,7 +389,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "..\\Ntier.DAL\\Entities\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:35:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CacheSettings.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Configuration\\CacheSettings.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Configuration\\CacheSettings.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Configuration\\CacheSettings.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Configuration\\CacheSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:46:42.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DAL\\Repositories\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\ImageRepository.cs",
+              "RelativeToolTip": "..\\Ntier.DAL\\Repositories\\ImageRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:23:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\ImageService.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Services\\ImageService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:27:18.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ImageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ImageDTO.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\ImageDTO.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ImageDTO.cs",
+              "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\ImageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:27:13.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\TokenServices.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Services\\TokenServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:27:15.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Interfaces\\IImageService.cs",
+              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Interfaces\\IImageService.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Interfaces\\IImageService.cs",
+              "RelativeToolTip": "..\\Ntier.BLL\\Interfaces\\IImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:27:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Migrations\\ShopContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ShopContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Migrations\\ShopContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ShopContextModelSnapshot.cs",
+              "ViewState": "AQIAAL0BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:32:46.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MigrationDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\MigrationDatabase.cs",
+              "RelativeDocumentMoniker": "MigrationDatabase.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\MigrationDatabase.cs",
+              "RelativeToolTip": "MigrationDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:29:10.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "log.sql ",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\log.sql",
               "RelativeDocumentMoniker": "log.sql",
@@ -376,31 +518,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "20240314185727_init.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Migrations\\20240314185727_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20240314185727_init.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Migrations\\20240314185727_init.cs",
               "RelativeToolTip": "Migrations\\20240314185727_init.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABYAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBEAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:32:46.332Z"
+              "WhenOpened": "2024-03-16T08:32:46.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ShopContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Migrations\\ShopContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ShopContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Migrations\\ShopContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ShopContextModelSnapshot.cs",
-              "ViewState": "AQIAAL0BAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:32:46.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "20240316084302_init1.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Migrations\\20240316084302_init1.cs",
               "RelativeDocumentMoniker": "Migrations\\20240316084302_init1.cs",
@@ -408,23 +539,12 @@
               "RelativeToolTip": "Migrations\\20240316084302_init1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:43:03.497Z"
+              "WhenOpened": "2024-03-16T08:43:03.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.DAL\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\Ntier.DAL\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:43.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "FolderProfile.pubxml",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "RelativeDocumentMoniker": "Properties\\PublishProfiles\\FolderProfile.pubxml",
@@ -432,23 +552,25 @@
               "RelativeToolTip": "Properties\\PublishProfiles\\FolderProfile.pubxml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-03-16T08:36:40.09Z"
+              "WhenOpened": "2024-03-16T08:36:40.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "AuthorizationPolicyProvider.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Extentions\\AuthorizationPolicyProvider.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Extentions\\AuthorizationPolicyProvider.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Extentions\\AuthorizationPolicyProvider.cs",
               "RelativeToolTip": "..\\Ntier.BLL\\Extentions\\AuthorizationPolicyProvider.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:26.432Z"
+              "WhenOpened": "2024-03-16T08:27:26.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "RequirementAuthorizationExtensions.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Extentions\\RequirementAuthorizationExtensions.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Extentions\\RequirementAuthorizationExtensions.cs",
@@ -456,11 +578,12 @@
               "RelativeToolTip": "..\\Ntier.BLL\\Extentions\\RequirementAuthorizationExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:28.279Z"
+              "WhenOpened": "2024-03-16T08:27:28.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Interfaces\\IUserService.cs",
@@ -468,11 +591,12 @@
               "RelativeToolTip": "..\\Ntier.BLL\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:22.982Z"
+              "WhenOpened": "2024-03-16T08:27:22.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "IProductsService.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Interfaces\\IProductsService.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Interfaces\\IProductsService.cs",
@@ -480,11 +604,12 @@
               "RelativeToolTip": "..\\Ntier.BLL\\Interfaces\\IProductsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:14:48.495Z"
+              "WhenOpened": "2024-03-16T08:14:48.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "AuthorizationHandlerlExtensions.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Extentions\\AuthorizationHandlerlExtensions.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Extentions\\AuthorizationHandlerlExtensions.cs",
@@ -492,23 +617,12 @@
               "RelativeToolTip": "..\\Ntier.BLL\\Extentions\\AuthorizationHandlerlExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:25.885Z"
+              "WhenOpened": "2024-03-16T08:27:25.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.BLL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Services\\UserService.cs",
-              "RelativeToolTip": "..\\Ntier.BLL\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:16.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "ShopContext.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Context\\ShopContext.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Context\\ShopContext.cs",
@@ -516,11 +630,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Context\\ShopContext.cs",
               "ViewState": "AQIAAM4AAAAAAAAAAAAUwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:33:45.88Z"
+              "WhenOpened": "2024-03-16T08:33:45.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "Pagination.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\Pagination.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\Pagination.cs",
@@ -528,35 +643,25 @@
               "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\Pagination.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:11.856Z"
+              "WhenOpened": "2024-03-16T08:27:11.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ProductDTO.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\ProductDTO.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ProductDTO.cs",
               "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\ProductDTO.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:10.816Z"
+              "WhenOpened": "2024-03-16T08:27:10.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ProductQueryParameters.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ProductQueryParameters.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\ProductQueryParameters.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ProductQueryParameters.cs",
-              "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\ProductQueryParameters.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:09.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "ProductsPagination.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ProductsPagination.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\ProductsPagination.cs",
@@ -564,11 +669,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\ProductsPagination.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:07.671Z"
+              "WhenOpened": "2024-03-16T08:27:07.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "ProductToAddDTO.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\ProductToAddDTO.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\ProductToAddDTO.cs",
@@ -576,11 +682,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\ProductToAddDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:00.735Z"
+              "WhenOpened": "2024-03-16T08:27:00.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "StockDTO.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\Products\\StockDTO.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\Products\\StockDTO.cs",
@@ -588,11 +695,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\DTO\\Products\\StockDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:01.141Z"
+              "WhenOpened": "2024-03-16T08:27:01.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "UserRegisterDTO.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\User\\UserRegisterDTO.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\User\\UserRegisterDTO.cs",
@@ -600,11 +708,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\DTO\\User\\UserRegisterDTO.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:00.115Z"
+              "WhenOpened": "2024-03-16T08:27:00.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\User\\UserDTO.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\User\\UserDTO.cs",
@@ -612,11 +721,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\DTO\\User\\UserDTO.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:34:03.624Z"
+              "WhenOpened": "2024-03-16T08:34:03.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "UserLoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\DTO\\User\\UserLoginDTO.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\DTO\\User\\UserLoginDTO.cs",
@@ -624,11 +734,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\DTO\\User\\UserLoginDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:34:05.632Z"
+              "WhenOpened": "2024-03-16T08:34:05.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "AppRole.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\AppRole.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\AppRole.cs",
@@ -636,11 +747,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Entities\\AppRole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:23.23Z"
+              "WhenOpened": "2024-03-16T08:35:23.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "ProductSizeDetail.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\ProductSizeDetail.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\ProductSizeDetail.cs",
@@ -648,11 +760,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Entities\\ProductSizeDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:21.997Z"
+              "WhenOpened": "2024-03-16T08:35:21.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "ProductSize.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\ProductSize.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\ProductSize.cs",
@@ -660,35 +773,38 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Entities\\ProductSize.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:20.934Z"
+              "WhenOpened": "2024-03-16T08:35:20.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\Product.cs",
               "RelativeToolTip": "..\\Ntier.DAL\\Entities\\Product.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:18.255Z"
+              "WhenOpened": "2024-03-16T08:35:18.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\OrderDetail.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\OrderDetail.cs",
               "RelativeToolTip": "..\\Ntier.DAL\\Entities\\OrderDetail.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:17.005Z"
+              "WhenOpened": "2024-03-16T08:35:17.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\Order.cs",
@@ -696,11 +812,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Entities\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:16.219Z"
+              "WhenOpened": "2024-03-16T08:35:16.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Entities\\Category.cs",
@@ -708,11 +825,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Entities\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:15.555Z"
+              "WhenOpened": "2024-03-16T08:35:15.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Interfaces\\IUserRepository.cs",
@@ -720,23 +838,25 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Interfaces\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:13.005Z"
+              "WhenOpened": "2024-03-16T08:35:13.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "IProductsRepository.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Interfaces\\IProductsRepository.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Interfaces\\IProductsRepository.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Interfaces\\IProductsRepository.cs",
               "RelativeToolTip": "..\\Ntier.DAL\\Interfaces\\IProductsRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:30:56.696Z"
+              "WhenOpened": "2024-03-16T08:30:56.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "IImageRepository.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Interfaces\\IImageRepository.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Interfaces\\IImageRepository.cs",
@@ -744,11 +864,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Interfaces\\IImageRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:35:09.895Z"
+              "WhenOpened": "2024-03-16T08:35:09.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 53,
               "Title": "Seeder.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Seeder.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Seeder.cs",
@@ -756,35 +877,25 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Seeder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:34:41.586Z"
+              "WhenOpened": "2024-03-16T08:34:41.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ImageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\ImageRepository.cs",
-              "RelativeDocumentMoniker": "..\\Ntier.DAL\\Repositories\\ImageRepository.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\ImageRepository.cs",
-              "RelativeToolTip": "..\\Ntier.DAL\\Repositories\\ImageRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBQAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:23:46.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "ProductsRepository.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\ProductsRepository.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Repositories\\ProductsRepository.cs",
               "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\ProductsRepository.cs",
               "RelativeToolTip": "..\\Ntier.DAL\\Repositories\\ProductsRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:23:03.57Z"
+              "WhenOpened": "2024-03-16T08:23:03.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\Repositories\\UserRepository.cs",
@@ -792,11 +903,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:26:56.932Z"
+              "WhenOpened": "2024-03-16T08:26:56.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 54,
               "Title": "RoleDefine.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\SeedWorks\\RoleDefine.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\SeedWorks\\RoleDefine.cs",
@@ -804,11 +916,12 @@
               "RelativeToolTip": "..\\Ntier.DAL\\SeedWorks\\RoleDefine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:41.353Z"
+              "WhenOpened": "2024-03-16T08:27:41.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "AutoMapper.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Extentions\\AutoMapper.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Extentions\\AutoMapper.cs",
@@ -816,11 +929,12 @@
               "RelativeToolTip": "..\\Ntier.BLL\\Extentions\\AutoMapper.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:27.614Z"
+              "WhenOpened": "2024-03-16T08:27:27.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 57,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.BLL\\Configuration\\JwtSettings.cs",
               "RelativeDocumentMoniker": "..\\Ntier.BLL\\Configuration\\JwtSettings.cs",
@@ -828,23 +942,12 @@
               "RelativeToolTip": "..\\Ntier.BLL\\Configuration\\JwtSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:35.071Z"
+              "WhenOpened": "2024-03-16T08:27:35.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:28:52.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "Permission.cs",
               "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\MIki\\Miki_Shop\\server\\Ntier.DAL\\SeedWorks\\Permission.cs",
               "RelativeDocumentMoniker": "..\\Ntier.DAL\\SeedWorks\\Permission.cs",
@@ -852,7 +955,8 @@
               "RelativeToolTip": "..\\Ntier.DAL\\SeedWorks\\Permission.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:27:42.272Z"
+              "WhenOpened": "2024-03-16T08:27:42.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

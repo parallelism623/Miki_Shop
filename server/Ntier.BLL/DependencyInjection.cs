@@ -5,6 +5,7 @@ using Ntier.BLL.Configuration;
 using Ntier.BLL.Extentions;
 using Ntier.BLL.Interfaces;
 using Ntier.BLL.Services;
+using StackExchange.Redis;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,6 +26,11 @@ namespace Ntier.BLL
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IProductsService, ProductsService>();
             services.AddScoped<IImageService, ImageService>();
+            var redisSettings = new CacheSettings();
+            configuration.GetSection("RedisConfiguration").Bind(redisSettings);
+            services.AddSingleton<IConnectionMultiplexer>(_ => ConnectionMultiplexer.Connect(redisSettings.ConnectionString));
+            services.AddStackExchangeRedisCache(options => options.Configuration = redisSettings.ConnectionString);
+            services.AddSingleton(redisSettings);
         }
     }
 }

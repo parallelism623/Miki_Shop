@@ -5,6 +5,7 @@ using Ntier.BLL.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Ntier.DAL.DTO.Products;
 using Ntier.DAL.SeedWorks;
+using Ntier.BLL.Attributes;
 
 namespace Ntier.API.Controllers
 {
@@ -31,6 +32,7 @@ namespace Ntier.API.Controllers
         }
 
         [HttpGet]
+        [Cache(1000)]
         public async Task<IActionResult> GetProductsAsync( [FromQuery] ProductQueryParameters queryParameters)
         {
             try
@@ -47,6 +49,7 @@ namespace Ntier.API.Controllers
 
         [HttpPost]
         [Authorize(Permission.Admin.All)]
+        
         public async Task<IActionResult> AddProductAsync( ProductToAddDTO productToAdd )
         {
             try
