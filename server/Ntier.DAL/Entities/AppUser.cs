@@ -14,7 +14,7 @@ namespace Ntier.DAL.Entities
         {
             Orders = new HashSet<Order>();
         }
-        public string FullName { get; set; }
+        public string? FullName { get; set; }
         public DateTime? ExpireAt { get; set; }
         public string? RefreshTk { get; set; }
         public virtual ICollection<Order> Orders { get; set; }

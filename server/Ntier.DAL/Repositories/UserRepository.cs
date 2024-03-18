@@ -48,6 +48,8 @@ namespace Ntier.DAL.Repositories
             return await _userManager.Users.ToListAsync();
         }
 
+
+
         public async Task RemoveRefreshTokenAsync(string userId)
         {
             var user = await _userManager.FindByIdAsync(userId);  

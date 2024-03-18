@@ -22,7 +22,7 @@ namespace Ntier.BLL
             services.AddTransient<IAuthorizationHandler, AuthorizationHandlerlExtensions>();
             services.Configure<JwtSettings>(configuration.GetSection("JwtSettings"));
             services.Configure<CloudinarySettings>(configuration.GetSection("CloudinarySettings"));
-            services.AddAutoMapper(typeof(Ntier.BLL.Extentions.AutoMapper));
+            services.AddAutoMapper(typeof(Ntier.BLL.Extentions.AutoMapper).Assembly);
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IProductsService, ProductsService>();
             services.AddScoped<IImageService, ImageService>();

@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
-
+using Microsoft.Extensions.Caching.Distributed;
 using Ntier.DAL.Entities;
+using Ntier.DAL.Interfaces;
 using Ntier.DAL.SeedWorks;
 using System.Security.Claims;
 
@@ -11,10 +13,15 @@ namespace Ntier.BLL.Extentions
     {
         private readonly RoleManager<AppRole> _roleManager;
         private readonly UserManager<AppUser> _userManager;
-        public AuthorizationHandlerlExtensions(RoleManager<AppRole> roleManager, UserManager<AppUser> userManager) 
+        private readonly ICacheRepository _cacheRepository;
+        private readonly IHttpContextAccessor _httpContextAccessor;
+        public AuthorizationHandlerlExtensions(ICacheRepository cacheRepository, IHttpContextAccessor httpContextAccessor , RoleManager<AppRole> roleManager, UserManager<AppUser> userManager) 
         {
+            _httpContextAccessor = httpContextAccessor;
+            _cacheRepository = cacheRepository;
             _roleManager = roleManager;
             _userManager = userManager;
+            //_httpContextAccessor = httpContextAccessor; 
         }
         protected override async Task HandleRequirementAsync(AuthorizationHandlerContext context, RequirementAuthorizationExtensions requirement)
         {
@@ -23,11 +30,21 @@ namespace Ntier.BLL.Extentions
                 context.Fail();
                 return;
             }
+            //var accessToken = _httpContextAccessor.HttpContext.Request.Headers["access_token"];
+
+            var accessToken = _httpContextAccessor.HttpContext.Request.Headers["access_token"];
             var userId = (context.User.Identity as ClaimsPrincipal).FindFirst(x => x.Type == "UserId").Value;
+            var user = await _userManager.FindByIdAsync(userId);
+            var accessTokenInCache = await _cacheRepository.GetCacheResponeAsync(user.UserName);
+            if (accessTokenInCache is null || accessToken.Equals(accessTokenInCache) == false)
+            {
+                context.Fail();
+                return;
+            }
             var listPermission = new List<string>();
             listPermission.Append(requirement._param);
             listPermission.AddRange(requirement._params);
-            var user = await _userManager.FindByIdAsync(userId);
+            
             var roles = await _userManager.GetRolesAsync(user);
             if (roles.Contains(RoleDefine.ADMIN))
             {

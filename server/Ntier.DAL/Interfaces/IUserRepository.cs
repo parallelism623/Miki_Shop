@@ -10,5 +10,6 @@ namespace Ntier.DAL.Interfaces
         Task<IEnumerable<AppUser>> GetUsersAsync();
         Task<AppUser> GetUserByPasswordAsync(AppUser user);
         Task<bool> AddUserAsync(AppUser user);
+        
     }
 }

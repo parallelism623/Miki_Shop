@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "images",
-        "Type": "System.Collections.Generic.ICollection\u00601[[Ntier.DTO.DTO.Products.ImageDTO, Ntier.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.ICollection\u00601[[Ntier.DAL.DTO.Products.ImageDTO, Ntier.DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "imagesDto",
-        "Type": "Ntier.DTO.DTO.Products.ImageDTO[]",
+        "Type": "Ntier.DAL.DTO.Products.ImageDTO[]",
         "IsRequired": true
       }
     ],
@@ -72,7 +72,7 @@
     "Parameters": [
       {
         "Name": "productToAdd",
-        "Type": "Ntier.DTO.DTO.Products.ProductToAddDTO",
+        "Type": "Ntier.DAL.DTO.Products.ProductToAddDTO",
         "IsRequired": true
       }
     ],
@@ -120,7 +120,75 @@
     "Parameters": [
       {
         "Name": "productToAdd",
-        "Type": "Ntier.DTO.DTO.Products.ProductToAddDTO",
+        "Type": "Ntier.DAL.DTO.Products.ProductToAddDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ntier.API.Controllers.UsersController",
+    "Method": "GetAllUser",
+    "RelativePath": "api/Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ntier.API.Controllers.UsersController",
+    "Method": "LoginUser",
+    "RelativePath": "api/Users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLoginDTO",
+        "Type": "Ntier.DAL.DTO.User.UserLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ntier.API.Controllers.UsersController",
+    "Method": "Logout",
+    "RelativePath": "api/Users/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ntier.API.Controllers.UsersController",
+    "Method": "GetNewAccessToken",
+    "RelativePath": "api/Users/refreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ntier.API.Controllers.UsersController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/Users/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDTO",
+        "Type": "Ntier.DAL.DTO.User.UserRegisterDTO",
         "IsRequired": true
       }
     ],

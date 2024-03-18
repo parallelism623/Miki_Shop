@@ -30,3 +30,4 @@ C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.BLL\bin\Release\net6.0\Ntier.
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.BLL\bin\Release\net6.0\Ntier.DAL.pdb
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.BLL\obj\Release\net6.0\Ntier.BLL.csproj.Up2Date
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.BLL\obj\Release\net6.0\ref\Ntier.BLL.dll
+C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.BLL\obj\Release\net6.0\Ntier.BLL.sourcelink.json

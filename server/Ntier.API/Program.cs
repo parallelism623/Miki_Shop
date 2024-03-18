@@ -33,9 +33,11 @@ builder.Services.AddDbContext<ShopContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("SQL"), b => b.MigrationsAssembly("Ntier.API"));
 });
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<ShopContext>().AddDefaultTokenProviders();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
 {
+    opt.SaveToken = true;
     opt.TokenValidationParameters = new TokenValidationParameters
     {
         //khong su dung dich vu ngoai
@@ -47,8 +49,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["JwtSettings:SecretKey"]))
     };
 });
-builder.Services.RegisterDALDependencies();
-
+builder.Services.RegisterDALDependencies(builder.Configuration);
 builder.Services.RegisterBLLDependencies(builder.Configuration);
 builder.Services.AddSwaggerGen();
 
@@ -64,6 +65,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseSwagger();
 app.UseSwaggerUI();
+
 
 app.UseHttpsRedirection();
 app.UseRouting();

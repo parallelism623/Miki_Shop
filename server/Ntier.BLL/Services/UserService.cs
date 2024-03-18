@@ -7,6 +7,8 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using AutoMapper;
 using Ntier.DAL.Entities;
+using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.AspNetCore.Authorization;
 namespace Ntier.BLL.Services
 {
     public class UserService : IUserService
@@ -14,8 +16,10 @@ namespace Ntier.BLL.Services
         private readonly IMapper _mapper;
         private readonly IUserRepository _userRepository;
         private readonly JwtSettings _jwtSettings;
-        public UserService(IUserRepository userRepository, IOptions<JwtSettings> jwtSettings, IMapper mapper)
+        private readonly ICacheRepository _cacheRepository;
+        public UserService(ICacheRepository cacheRepository, IUserRepository userRepository, IOptions<JwtSettings> jwtSettings, IMapper mapper)
         {
+            _cacheRepository = cacheRepository;
             _mapper = mapper;
             _jwtSettings = jwtSettings.Value;
             _userRepository = userRepository;
@@ -38,9 +42,10 @@ namespace Ntier.BLL.Services
                         new Claim("UserId", user.Id),
                         new Claim(ClaimTypes.Email, user.Email),
                         new Claim(ClaimTypes.Name, user.UserName),
-                        new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())  
+                        new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
                     };
                     var token = await TokenServices.GenerateAccessToken(claims, _jwtSettings);
+                    _cacheRepository.SetCacheResponeAsync(user.UserName, token, TimeSpan.FromSeconds(60));
                     return token;
                 }
             }
@@ -78,6 +83,7 @@ namespace Ntier.BLL.Services
             var accessToken = await TokenServices.GenerateAccessToken(claims, _jwtSettings);
             var newUser = _mapper.Map<UserDTO>(await _userRepository.UpdateRefreshTokenAsync(user.Id, refreshToken));
             newUser.Access_token = accessToken;
+            _cacheRepository.SetCacheResponeAsync(user.UserName, accessToken, TimeSpan.FromSeconds(60));
             return newUser;
         }
 
@@ -88,6 +94,15 @@ namespace Ntier.BLL.Services
             {
                 throw new ArgumentException("Email already exits");
             }
+        }
+        public async Task LogoutAsync(string userId, string userName)
+        {
+            if (userId == null || userName == null) 
+            {
+                throw new ArgumentNullException();
+            }
+            await _userRepository.RemoveRefreshTokenAsync(userId);
+            await _cacheRepository.RemoveCacheByKeyAsync(userName);
         }
     }
 }

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Ntier.BLL.Interfaces;
 using Ntier.DAL.DTO.User;
+using System.Security.Claims;
 
 namespace Ntier.API.Controllers
 {
@@ -76,6 +77,15 @@ namespace Ntier.API.Controllers
             {
                 return BadRequest(ex.Message);
             }
+        }
+        [HttpPost("logout")]
+        [Authorize]
+        public async Task<IActionResult> Logout()
+        {
+            var userId = (User.Identity as ClaimsPrincipal).FindFirst(x => x.Type == "UserId").Value;
+            var userName = (User.Identity as ClaimsPrincipal).FindFirst(x => x.Type == ClaimTypes.Name).Value;
+            await _userService.LogoutAsync(userId, userName);
+            return Ok();
         }
     }
 }

@@ -14,5 +14,6 @@ namespace Ntier.BLL.Interfaces
         Task RegisterUserAsync(UserRegisterDTO userRegisterDTO);
         Task<UserDTO> LoginUserAsync(UserLoginDTO userLoginDTO);
         Task<string> GetNewAccessTokenAsync(string userId);
+        Task LogoutAsync(string userId, string userName);
     }
 }

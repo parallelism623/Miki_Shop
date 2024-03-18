@@ -169,3 +169,7 @@ C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.API\obj\Release\net6.0\ref\Nt
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.API\bin\Release\net6.0\Humanizer.dll
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.API\bin\Release\net6.0\dotenv.net.dll
+C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.API\obj\Release\net6.0\Ntier.API.sourcelink.json
+C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.API\bin\Release\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.API\bin\Release\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.API\bin\Release\net6.0\StackExchange.Redis.dll

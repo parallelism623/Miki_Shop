@@ -13,11 +13,12 @@ namespace Ntier.DAL
     {
         public static void RegisterDALDependencies(this IServiceCollection services, IConfiguration config)
         {
-            services.AddAutoMapper(typeof(ShopContext));
+            services.AddAutoMapper(typeof(ShopContext).Assembly);
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IProductsRepository, ProductsRepository>();
             services.AddScoped<IImageRepository, ImageRepository>();
             services.AddScoped<ICacheRepository, CacheRepository>();
+ 
         }
     }
 }

@@ -29,3 +29,4 @@ C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.DAL\bin\Release\net6.0\Ntier.
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.DAL\bin\Release\net6.0\Ntier.DAL.pdb
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.DAL\obj\Release\net6.0\Ntier.DAL.genruntimeconfig.cache
 C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.DAL\obj\Release\net6.0\ref\Ntier.DAL.dll
+C:\Users\hieud\Code\C#\MIki\Miki_Shop\server\Ntier.DAL\obj\Release\net6.0\Ntier.DAL.sourcelink.json

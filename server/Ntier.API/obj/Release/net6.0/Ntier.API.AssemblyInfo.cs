@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ntier.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bddfaf9e61c62aeb77227431d65fb218f1e36ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c750a3dedede535ed8a0a5be936f6d7b5c9105d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ntier.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ntier.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

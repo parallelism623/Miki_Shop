@@ -30,7 +30,7 @@ namespace Ntier.DAL.Repositories
             return respone ?? null;
         }
 
-        private async IAsyncEnumerable<string> GetKeyAsync(string pattern)
+        public async IAsyncEnumerable<string> GetKeyAsync(string pattern)
         {
             foreach(var ep in _connectionMultiplexer.GetEndPoints())
             {
@@ -40,6 +40,15 @@ namespace Ntier.DAL.Repositories
                    yield return ser.ToString();
                 }
             }
+        }
+
+        public async Task RemoveCacheByKeyAsync(string key)
+        {
+            if (key == null)
+            {
+                return;
+            }
+            await _distributedCache.RemoveAsync(key);
         }
 
         public async Task RemoveCacheResponeAsync(string cacheKey)
@@ -70,5 +79,7 @@ namespace Ntier.DAL.Repositories
                 AbsoluteExpirationRelativeToNow = timeOut,
             });
         }
+
+
     }
 }

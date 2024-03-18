@@ -12,5 +12,6 @@ namespace Ntier.DAL.Interfaces
         Task RemoveCacheResponeAsync(string cacheKey);
         Task SetCacheResponeAsync(string cacheKey, object respone, TimeSpan timeOut);
         IAsyncEnumerable<string> GetKeyAsync (string pattern);
+        Task RemoveCacheByKeyAsync(string key);
     }
 }
